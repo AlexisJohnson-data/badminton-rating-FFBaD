@@ -6,7 +6,6 @@ Projet réalisé lors d'un processus de recrutement de stage à la FFBaD (2025),
 
 - 📔 `notebook/badminton-manager.ipynb` : Notebook principal avec les résultats reproductibles sans données privées.
 - 📦 `modules/` : Tous les scripts d’implémentation (Elo, Glicko2, SmartRank).
-- 📊 `outputs/` : Résultats et graphiques générés à partir de données privées (non fournies ici).
 
 ## ⚠️ Données non incluses
 
