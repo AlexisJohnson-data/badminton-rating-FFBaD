@@ -1,6 +1,6 @@
 # 🏸 Badminton Rating System
 
-Projet réalisé lors de mon stage à la FFBaD (2025), visant à comparer les systèmes de classement Elo, Glicko2 et un système personnalisé "SmartRank" appliqué au badminton.
+Projet réalisé lors d'un processus de recrutement de stage à la FFBaD (2025), visant à comparer les systèmes de classement Elo, Glicko2 et un système personnalisé "SmartRank" appliqué au badminton.
 
 ## Contenu du dépôt
 
@@ -10,8 +10,8 @@ Projet réalisé lors de mon stage à la FFBaD (2025), visant à comparer les sy
 
 ## ⚠️ Données non incluses
 
-Pour des raisons de confidentialité, les données utilisées lors du stage ne sont pas rendues publiques. Les résultats visibles dans le notebook sont issus de simulations ou d’échantillons anonymisés.
+Pour des raisons de confidentialité, les données utilisées lors du projet ne sont pas rendues publiques.
 
 ## Auteur
 
-Projet réalisé par [Ton prénom Nom] dans le cadre du stage Data Science à la Fédération Française de Badminton.
+Projet réalisé par Alexis Johnson dans le cadre du stage Data Science à la Fédération Française de Badminton.
